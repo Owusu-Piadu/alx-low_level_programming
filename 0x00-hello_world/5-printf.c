@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - contains all my codes
- *return: returns 0 (success)
+ * main - Entry point
+ * Description: 'outputing using printf'
+ * Return: Always 0 (Success)
  */
 
 int main(void)
