@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "main.h"
 
 int main(void)
 {
@@ -17,7 +16,6 @@ p = &n;
    * - you are not allowed to code anything else than this line of code
    */
 p[5] = 98;
- 
 /**
  *....so this prints 98
  */
